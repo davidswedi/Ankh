@@ -1,0 +1,27 @@
+  #example-card{
+    max-width:300px;
+  }
+  img{
+    padding: 0.7rem;
+  }
+  .post{
+    margin: 0.3rem;
+    padding: 0.7rem;
+  }
+  .aside{
+    display: flex;
+    flex-direction: column; 
+    border-right: 4px solid rgb(95, 95, 95);
+    margin-right: 0.7rem;
+    // position: sticky;
+    // top: 0;
+    // bottom: 0;
+    background: black;
+    overflow-y:scroll;
+  }
+  .head{
+    background: dodgerblue;
+    color: white;
+    border-radius: 10px;
+    padding: 0.6rem;
+  }

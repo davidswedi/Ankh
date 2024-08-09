@@ -1,0 +1,298 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Processus Electoral en Cours ",
+      "author": "typicode",
+      "content": "Le processus electoral en RDC est en cours",
+      "slug": "Santé",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/kadima.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          },
+          {
+            "id":3,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Vsite d'Emmanuel Macron en République Démocratique du Congo",
+      "author": "typicode",
+      "content": "Viste du Président Français dans la capitale congolaise ce samedi",
+      "slug": "Politique",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/macron.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+      
+    },
+    {
+      "id": 3,
+      "title": "Retrait de La Munosco",
+      "author": "typicode",
+      "content": "Le gouvernement de la RDC demande le depart de la monusco après 2 decenies en mission au Congo",
+      "slug": "Politique",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/monusco.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+
+    },
+    {
+      "id": 4,
+      "title": "Session extra-ordinaire à l'assemblée nationale",
+      "author": "typicode",
+      "content": "Les deputées nationaux se sont rencontrés aujourd'hui au palais de la nation",
+      "slug": "Politique",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/palais.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Première passation de pouvoir pacifique en DRC",
+      "author": "typicode",
+      "content": "Une nouvelle ère politique en République du Congo",
+      "slug": "Economie",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/passation.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Lancement du Programme PDL  par le Président Felix Atoine",
+      "author": "typicode",
+      "content": "L'implementation du Projet PDL fait la une des nouvelles ce dernier temps dans la presse",
+      "slug": "Finance",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/presidence.jfif",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "La répresentante de l'ONU à Goma",
+      "author": "typicode",
+      "content": "Visite innattendue de la cheffe de la Monusco à Goma dans la privince du Sud-Kivu",
+      "slug": "Politique",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/representante.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Visite de Denis en RDC",
+      "author": "typicode",
+      "content": "L'homologue de president congolais en RDC",
+      "slug": "Politique",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/visite_leadership.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Bonjour ",
+      "author": "David",
+      "content": "<p>Le monde&nbsp;</p>",
+      "slug": "politique",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/monusco.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Apple forever ",
+      "author": "David",
+      "content": "<h1>La nouvelle ere de apple&nbsp;</h1>\n<div class=\"response-container-content ng-tns-c161380542-190\">\n<div class=\"response-content ng-trigger ng-trigger-responsePopulation ng-tns-c161380542-190\">\n<div class=\"markdown markdown-main-panel\" dir=\"ltr\">\n<p data-sourcepos=\"1:1-2:21\"><em>Apple <span class=\"citation-0 citation-end-0\">is an American multinational technology company that specializes in consumer electronics, computer software, and online services.</span> Its best known hardware products are the iPhone smartphone, the iPad tablet computer, the Mac personal computer, and the Apple Watch smartwatch.</em></p>\n<p data-sourcepos=\"1:1-2:21\"><span style=\"color: rgb(22, 145, 121);\">Apple's software includes the iOS mobile operating system, the macOS desktop operating system, and the iCloud service.</span></p>\n<div class=\"container\" role=\"dialog\" aria-live=\"polite\" aria-atomic=\"true\">\n<div class=\"recitation-tooltip\" aria-live=\"polite\" aria-atomic=\"true\">&nbsp;</div>\n</div>\n<div class=\"response-container-content ng-tns-c161380542-190\">\n<div class=\"response-content ng-trigger ng-trigger-responsePopulation ng-tns-c161380542-190\">\n<div class=\"markdown markdown-main-panel\" dir=\"ltr\">\n<p data-sourcepos=\"1:1-2:21\"><strong>Apple <span class=\"citation-0 citation-end-0\">is an American multinational technology company that specializes in consumer electronics, computer software, and online services.</span> Its best known hardware products are the iPhone smartphone, the iPad tablet computer, the Mac personal computer, and the Apple Watch smartwatch. Apple's software includes the iOS mobile operating system, the macOS desktop operating system, and the iCloud service.</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+      "slug": "politique",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/monusco.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Today news ",
+      "author": "David",
+      "content": "<p>Today news is well&nbsp;&nbsp;</p>",
+      "date_post": "10/09/2023",
+      "date_udpdate":"10/23/2023",
+      "photo": "assets/images/monusco.jpg",
+      "comments":[
+        {
+          "id":1,
+          "content": "J'aime",
+          "id_post":1,
+          "id_user":2,
+          "date_comment":"10/10/2023"
+        },
+          {
+            "id":2,
+            "content": "Bien",
+            "id_post":1,
+            "id_user":1,
+            "date_comment":"10/10/2023"
+          }
+      ]
+    }
+  ]
+}
